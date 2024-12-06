@@ -1,0 +1,15 @@
+# Z Score Outlier Pattern Results
+
+Total outliers found: 0
+
+
+----------------------------------------------------------------------------------------------------
+
+## Outliers in age column
+Outliers found: 0
+
+
+----------------------------------------------------------------------------------------------------
+
+## Outliers in money column
+Outliers found: 0
